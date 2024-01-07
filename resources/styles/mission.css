@@ -1,7 +1,6 @@
 .header{
     width: 1320px;
     height: 600px;
-    flex-shrink: 0;
     background: url('../Banner\ Image.png');
     text-align: center;
     margin: auto;
@@ -45,35 +44,38 @@
 .photo{
     width: 802.9px;
     height: 500px;
-    flex-shrink: 0;
     background: url('../New\ Year\ Photo.png');
-    text-align: center;
+    margin: auto;
 }
-.happy{
-    padding: 0px 0px 0px 0px;
-}
+
 .bgp{
     width: 1320px;
     height: 600px;
-    flex-shrink: 0;
+    margin: auto;
     background: url('../Vectorrr.png');
-    text-align: center;
+
 }
 .hh1{
+    margin: 10px;
+    text-align: left;
     width: 642px;
     color: #FFF;
     font-size: 64px;l;
     font-weight: 900;
     line-height: 88px;
     letter-spacing: 7.04px;
-    text-align: center;
+    padding: 126px 0px 24px 126px;
 }
+
 .hh2{
+    padding: 24px 0px 0px 126px;
+    margin: 10px;
+    text-align: left;
     width: 697px;
     color: #474747
-    font-size: 18px;
+    font-size: 150px;
     font-weight: 400;
-    line-height: 30px;
+    
 }
 .btn-primery{
     border-radius: 5px;
@@ -83,4 +85,33 @@
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+    margin: 10px;
+
+}
+.bc{
+    background-color: pink;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+    margin: auto;
+}
+.ts{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 56px;
+}
+.btn{
+    border-radius: 5px;
+    background-color: #F00;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.bw{
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
 }
