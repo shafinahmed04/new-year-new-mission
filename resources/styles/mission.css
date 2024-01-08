@@ -110,8 +110,36 @@
     font-weight: 700;
     padding: 15px 35px;
 }
+
 .bw{
-    width: 1600px;
-    height: 7335px;
+    width: 1000px;
+    height: 500px;
     background: #FFF;
+    margin: auto;
+}
+.lr{
+    text-align: left;
+
+}
+.im{
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 364.844px;
+}
+.ee{
+    display: flex;
+
+}
+.fut{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+.i{
+    width: 64px;
+    height: 64px; 
+    display: flex;
 }
